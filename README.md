@@ -7,7 +7,7 @@
 
 ## Features
 - 📊 Interactive KPI Dashboards
-- 🧠 Spec-wise & Pricing Analytics
+- 🧠 Spec-wise & Pricing Analytics 
 - 🌍 Region-wise Market Share Maps
 - 📅 Quarterly & Year-wise Trend Storyboards
 - 🎨 Dark UI with Eye-comfort Visualization
