@@ -85,7 +85,7 @@ If you find this helpful or have ideas to improve it, feel free to open an issue
 
 ## Authors
 
-- [@vnvrkarthik](https://www.linkedin.com/in/vnvrkarthik/)
+- [@vnvrkarthik](https://www.linkedin.com/in/vnvrkarthik/) - 👈 Click for watch LinkedIn Profile
 - [@Hema Sai]()
 - [@Poojitha Kolusu]()
 - [@Jagadeesh]()
