@@ -83,7 +83,7 @@ All design thinking documentation, storyboards, and architecture are available i
 If you find this helpful or have ideas to improve it, feel free to open an issue or reach me at [vnvrkarthik@gmail.com].
 
 
-## Authors(LinkedIn Profiles👇)
+## Team (LinkedIn Profiles👇)
 
 - [@vnvrkarthik](https://www.linkedin.com/in/vnvrkarthik/) 
 - [@Hema Saikumar_Tentu](https://www.linkedin.com/in/hema-sai-kumar-tentu-910971319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
