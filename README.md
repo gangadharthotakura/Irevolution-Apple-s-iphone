@@ -78,9 +78,6 @@ All design thinking documentation, storyboards, and architecture are available i
 - [x] Project Demonstration & Documentation
 - [x] Final Report
 
-## Feedback
-
-If you find this helpful or have ideas to improve it, feel free to open an issue or reach me at [vnvrkarthik@gmail.com].
 
 
 ## Team (LinkedIn Profiles👇)
@@ -90,6 +87,12 @@ If you find this helpful or have ideas to improve it, feel free to open an issue
 - [@Poojitha Kolusu](https://www.linkedin.com/in/poojitha-kolusu-25820b2ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [@Jagadeesh_Tamma](https://www.linkedin.com/in/tamma-jagadeesh-3619372bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
+
+
+
+## Feedback
+
+If you find this helpful or have ideas to improve it, feel free to open an issue or reach me at [vnvrkarthik@gmail.com].
 
 
 
